@@ -43,7 +43,7 @@ css list:
         ------------------
         --community v2 area css
         -----------------------
-    
+
 ==========================
 14:blog page css
 ==========================
@@ -99,43 +99,43 @@ input, textarea{
   text-transform: capitalize;
 }
 
-a.gradient-btn:hover:after, 
+a.gradient-btn:hover:after,
 a.gradient-btn:after,
-.single-details a,  
-.single-details a:hover, 
-.about-area.v2::after, 
-.slicknav_nav a:hover, 
-.slicknav_nav .slicknav_row, .slicknav_nav a, 
-.single-footer li a, 
-.single-footer li a:hover,  
-.single-community i, 
-.single-community i:hover, 
-.gradient-btn.apps-btn.apps-btn-2, 
-.gradient-btn.apps-btn.apps-btn-2:hover, 
-.faq-area .owl-nav div, 
-.faq-area .owl-nav div:hover, 
-.readmore-btn, 
-.readmore-btn i, 
-.readmore-btn:hover, 
-.single-team-social li a:hover, 
-.single-team-social li a:hover i, 
- .single-team-social a i, 
-.single-team-social li a, 
-.roadmap-area .owl-nav div,   
-.roadmap-area .owl-nav div:hover,  
-.single-document:hover, 
-.single-document:hover .single-document-text span, 
-.document-flag img, 
-.single-ico a:hover, 
-.ico-heading h1 a, 
-.ico-heading h1 a:hover, 
-.main-menu li ul, 
-.header-area, 
-.main-menu li:hover ul,  
-.main-menu li ul li a:hover, 
-a.single-about:hover, 
+.single-details a,
+.single-details a:hover,
+.about-area.v2::after,
+.slicknav_nav a:hover,
+.slicknav_nav .slicknav_row, .slicknav_nav a,
+.single-footer li a,
+.single-footer li a:hover,
+.single-community i,
+.single-community i:hover,
+.gradient-btn.apps-btn.apps-btn-2,
+.gradient-btn.apps-btn.apps-btn-2:hover,
+.faq-area .owl-nav div,
+.faq-area .owl-nav div:hover,
+.readmore-btn,
+.readmore-btn i,
+.readmore-btn:hover,
+.single-team-social li a:hover,
+.single-team-social li a:hover i,
+ .single-team-social a i,
+.single-team-social li a,
+.roadmap-area .owl-nav div,
+.roadmap-area .owl-nav div:hover,
+.single-document:hover,
+.single-document:hover .single-document-text span,
+.document-flag img,
+.single-ico a:hover,
+.ico-heading h1 a,
+.ico-heading h1 a:hover,
+.main-menu li ul,
+.header-area,
+.main-menu li:hover ul,
+.main-menu li ul li a:hover,
+a.single-about:hover,
 .header-area.header-absolate.skrollable.skrollable-after,
-a.single-about, 
+a.single-about,
 .main-menu li ul li a
  {
   -webkit-transition: all .3s;
@@ -1397,7 +1397,7 @@ blog page css
   padding: 150px 0;
   font-size: 18px;
   text-transform: capitalize;
-  
+
 }
 .welcome-header a{
   -webkit-transition: all .3s;
@@ -1644,7 +1644,7 @@ a.single-blog-top:hover {
   float: right;
 }
 
-.single-blog-contact input, 
+.single-blog-contact input,
 .single-blog-contact textarea{
   border: 1px solid #163fcb;
   padding: 10px;
@@ -1729,7 +1729,7 @@ a.gradient-btn {
   position: relative;
   z-index: 2;
   text-align: center;
-    
+
 }
 
 a.gradient-btn:after {
@@ -1755,8 +1755,8 @@ a.gradient-btn:hover:after{
   text-transform: uppercase;
 }
 
-.about-mid-img img, 
-.document-flag img, 
+.about-mid-img img,
+.document-flag img,
 .single-team-img img,
 .welcome-img img{
   height: 100%;
